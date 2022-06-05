@@ -12,17 +12,21 @@ Here I will share my 100 days of code in which I will solve Data Structure and A
 
   ### **ABOUT DSA (Linked List)**
  * Today, I created new linked list file and learn about Linked List's all basics, types etc.
-   ```
-   Q1 What is Linked list?
-   Ans. The chunks of nodes are connected with another nodes by the reference which is already present into the node, and also this nodes are located on different memory locations, that is known as linked list.
+<br>
+
+Q1 What is Linked list?
+Ans. The chunks of nodes are connected with another nodes by the reference which is already present into the node, and also this nodes are located on different memory locations, that is known as linked list.
    Every node contains two things first is data and second is reference.
-   
-   Q2 What are the types of linked list?
+   <br>
+
+Q2 What are the types of linked list?
    Ans. There are three types of linked list
      1. Singly Linked List
      2. Doubly Linked List
      3. Circular Linked List
-   ```
+   
+<br>
+
  * Learnt about how to
    - *Create a Linked List in **JAVA***
    - *Insert a node*
