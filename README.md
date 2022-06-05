@@ -36,9 +36,6 @@ Here I will share my 100 days of code in which I will solve Data Structure and A
     ~~~
     1. 1
     2. 2
-    3. 3
-    4. 4
-    5. 5
 
   ### **ABOUT NEXT.JS**
   * I worked on `next.js` and I learnt
