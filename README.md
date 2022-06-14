@@ -1,4 +1,4 @@
-# 100-Days-of-Code
+# 100-Days-of-Code 👨🏻‍💻
 Here I will share my 100 days of code in which I will solve Data Structure and Algorithms questions each day 2 although I will learning new things on daily basis, which I'll upload here on this repository.
 
 `#100-days-of-code
@@ -8,7 +8,7 @@ Here I will share my 100 days of code in which I will solve Data Structure and A
 
 ***
 
-## Day 1 :-
+## Day 1️⃣:-
 
   ### **ABOUT DSA (Linked List)**
  * Today, I created new linked list file and learn about Linked List's all basics, types etc.
@@ -51,18 +51,24 @@ Here I will share my 100 days of code in which I will solve Data Structure and A
 
 ***
 
-## Day 2
+## Day 2️⃣ :-
 
 
 > ***NOTE*** :- We can open vscode in browser directly with repository by pressing dot (.) key on keyboard.
 
 
-### DSA
+### About DSA (Binary Search) 
 
 #### **Learnt about Binary Search** :-
   
   It is an algorithm to find the target element into the given `sorted array` with the time complexity of **( log n )**. This is an very optimize way to find the element into the array.
 
-[Code]()
+ Here is your 👉🏻 **[Code](https://github.com/dsrathore1/100-Days-of-Code/blob/main/JAVA/Binary_Search.java)**
 
-### Implementing JWT
+  - Some Questions :-
+
+    1. [Implement Binary Search](https://github.com/dsrathore1/100-Days-of-Code/blob/main/JAVA/Binary_Search.java)
+    2. [Search the target into decending order sorted array](https://github.com/dsrathore1/100-Days-of-Code/blob/main/JAVA/Binary_Search.java)
+    
+
+### Implemented JWT
