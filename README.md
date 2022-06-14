@@ -68,7 +68,7 @@ Here I will share my 100 days of code in which I will solve Data Structure and A
   - Some Questions :-
 
     1. [Implement Binary Search](https://github.com/dsrathore1/100-Days-of-Code/blob/main/JAVA/Binary_Search.java)
-    2. [Search the target into decending order sorted array](https://github.com/dsrathore1/100-Days-of-Code/blob/main/JAVA/Binary_Search.java)
+    2. [Search an element in a reverse sorted array](https://github.com/dsrathore1/100-Days-of-Code/blob/main/JAVA/Search_In_Descending_order.java)
     
 
 ### Implemented JWT
