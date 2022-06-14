@@ -50,3 +50,19 @@ Here I will share my 100 days of code in which I will solve Data Structure and A
 
 
 ***
+
+## Day 2
+
+
+> ***NOTE*** :- We can open vscode in browser directly with repository by pressing dot (.) key on keyboard.
+
+
+### DSA
+
+#### **Learnt about Binary Search** :-
+  
+  It is an algorithm to find the target element into the given `sorted array` with the time complexity of **( log n )**. This is an very optimize way to find the element into the array.
+
+[Code]()
+
+### Implementing JWT
