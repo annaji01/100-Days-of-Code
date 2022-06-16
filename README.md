@@ -71,5 +71,3 @@ Here I will share my 100 days of code in which I will solve Data Structure and A
     2. [Search an element in a reverse sorted array](https://github.com/dsrathore1/100-Days-of-Code/blob/main/JAVA/Search_In_Descending_order.java)
     3. [Order Agnostic Binary Search](https://github.com/dsrathore1/100-Days-of-Code/blob/main/JAVA/Order-agnostic-search.java)
     
-
-### Implemented JWT
